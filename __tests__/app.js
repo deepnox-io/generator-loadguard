@@ -14,3 +14,4 @@ describe('generator-loadguard:app', () => {
     assert.file(['dummyfile.txt']);
   });
 });
+
